@@ -1,0 +1,108 @@
+.top{
+    display: flex;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: black;
+    color: white;
+
+}
+.nav{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.input{
+    display: flex; 
+    padding-left: 780px;   
+}
+.search{
+    list-style: none;
+    border-radius: 150px;
+}
+.heading{
+    display: grid;
+    height: 180px;
+    max-width: 700px;
+    margin: auto;
+   
+}
+.button{
+    background-color:royalblue;
+    color: white;
+    width: 100px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+.Engage{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+}
+.background{
+    background-color: yellowgreen;
+    color: white;
+}
+.htag{
+    display: flex;
+}
+span{
+    font-size:larger;
+    padding: 30px;
+}
+.htag{
+    justify-content: center;
+   
+}
+.mythili{
+    text-align: center;
+    margin-top: 0%;
+}
+.boxs{
+    width: 450px;
+    height: 250px;
+    background-color: lightslategrey;
+}
+.box{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+.head{
+    display: flex;
+    gap: 300px;
+    padding-left: 100px;
+    
+}
+.eff{
+    padding-top: 0px;
+    
+}
+.moon{
+    color:dodgerblue;
+}
+
+.star{
+    color:dodgerblue;
+}
+
+.sun{
+    color:dodgerblue;
+}
+.colla{
+        padding-left: 50px;
+}
+.road{
+    display: flex;
+    gap: 300px;
+    padding-left: 100px;
+}
+.main{
+    padding-left: 50px;
+    
+    
+}
+.one{
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
